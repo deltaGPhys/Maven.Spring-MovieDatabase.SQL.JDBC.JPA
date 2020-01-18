@@ -1,13 +1,12 @@
 package io.zipcoder.persistenceapp;
 
+import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import org.springframework.stereotype.Component;
 
 import javax.persistence.Entity;
 
-
 public class Person {
-
 
     private Long id;
     private String first_name;
