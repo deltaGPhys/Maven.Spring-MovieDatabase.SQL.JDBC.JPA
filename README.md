@@ -47,12 +47,12 @@ You can provide your `PersonService` to any controller that needs it by marking 
 
 Support the following operations:
 
-- Add a `Person` to the database
-- Update an existing `Person` in the database
-- Remove a person from the database
+- Add a `Person` to the database *
+- Update an existing `Person` in the database *
+- Remove a person from the database *
 - remove a list of people from the database
 - find all people with a particular first name, last name, or birthdate
-- Find a single person by ID
+- Find a single person by ID *
 - Generate a map of surnames to lists of people with that surname
 - Generate a map of first names to the number of times they occur.
 
